@@ -1,42 +1,57 @@
-Hi 👋, I'm Harsh Keshwani
-Hey there, I'm Harsh Keshwani  – a happy-go-lucky software developer who is enthusiastic about all things tech. I love to code, design webpages, and explore new ideas on the internet.
-1nishitagupta
 
-hk202202
+<h1 align="center">
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Harsh+Bardhan!;" />
 
-👨‍💻 All of my projects are available at https://
-
-📝 I regularly write articles on Medium
-
-💬 Ask me about Reactjs
-
-📫 How to reach me harsh202202@gmail.com
-
-📄 Know about my experiences https://
-
-⚡ Fun fact IYKYK
-
-Blogs posts
-Connect with me:
-
-harsh202202     _.btw_its_harsh._
+  
+</h1>
+<h3 align="center">A Full Stack Developer and specializing in AI Integration working remotely</h3>
 
 
 
-Languages and Tools:
+## 🌐 Socials:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/harsh-bardhan-ai) 
+[![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:harshopensource@gmail.com)
+[![Website Badge](https://img.shields.io/badge/-Website-c14438?style=flat&logo=Google-Chrome&logoColor=white&link=https://harshbardhan.vercel.app)](https://harshbardhan.vercel.app)
+[![Github](https://img.shields.io/github/followers/harshOpensource?label=Follow&style=social)](https://github.com/harshOpensource)
 
-bootstrap       css3       git       html5       javascript       jest       mysql       java      react       redux       sass       tailwind       typescript
+- 🔭 I’m currently working on enhancing my skills in React and Next.js.
+- 🌱 I’m currently learning about GraphQL, AWS CI/CD pipelines and Docker.
+- 👯 I’m looking to collaborate on projects that involve innovative frontend design and user experience optimization.
+- 💬 Ask me about my experience in building responsive and intuitive user interfaces.
+- 📫 How to reach me: harshopensource@gmail.com
+- ⚡ Fun fact: I enjoy experimenting with new JavaScript libraries and frameworks in my spare time.
 
 
-261
-Total Contributions
-Oct 8, 2020 - Present
-0
-Current Streak
-Sep 18
-10
-Longest Streak
-Jan 15 - Jan 24
+<h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
+<br/>
+<div align="center">
+    <img src="https://skillicons.dev/icons?i=react,bootstrap,mui,html,css,vscode,github,figma,tailwind,git,aws,azure" />
+    <img src="https://skillicons.dev/icons?i=nodejs,python,javascript,typescript,express,firebase,mongodb,postgres,solidity,prisma,graphql,java,nextjs,mysql,flask" /><br>
+</div>
+
+</br>
+</br>
+
+
+# 📊 GitHub Stats ⚡:
+
+
+![ Github Stats Graph](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=harshOpensource&theme=radical&hide_border=true)
+
+
+<br>
+
+
+![](https://github-readme-stats.vercel.app/api?username=harshOpensource&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+
+![](https://github-readme-streak-stats.herokuapp.com/?user=harshOpensource&theme=dark&hide_border=false)<br/>
+
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=harshOpensource&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+
+
+
+
+[![](https://visitcount.itsvg.in/api?id=harshOpensource&icon=0&color=0)](https://visitcount.itsvg.in)
 <!---
 hk202202/hk202202 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
