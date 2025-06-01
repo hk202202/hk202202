@@ -9,16 +9,16 @@
 
 
 ## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/harsh-bardhan-ai) 
-[![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:harshopensource@gmail.com)
-[![Website Badge](https://img.shields.io/badge/-Website-c14438?style=flat&logo=Google-Chrome&logoColor=white&link=https://harshbardhan.vercel.app)](https://harshbardhan.vercel.app)
-[![Github](https://img.shields.io/github/followers/harshOpensource?label=Follow&style=social)](https://github.com/harshOpensource)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/harsh202202) 
+[![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:harsh202202@gmail.com)
+[![Website Badge](https://img.shields.io/badge/-Website-c14438?style=flat&logo=Google-Chrome&logoColor=white&link=https://harshbardhan.vercel.app)](https://portfolio2-murex-chi.vercel.app)
+[![Github](https://img.shields.io/github/followers/harshOpensource?label=Follow&style=social)](https://github.com/hk202202)
 
 - 🔭 I’m currently working on enhancing my skills in React and Next.js.
 - 🌱 I’m currently learning about GraphQL, AWS CI/CD pipelines and Docker.
 - 👯 I’m looking to collaborate on projects that involve innovative frontend design and user experience optimization.
 - 💬 Ask me about my experience in building responsive and intuitive user interfaces.
-- 📫 How to reach me: harshopensource@gmail.com
+- 📫 How to reach me: harshkeshwani12@gmail.com
 - ⚡ Fun fact: I enjoy experimenting with new JavaScript libraries and frameworks in my spare time.
 
 
@@ -36,13 +36,13 @@
 # 📊 GitHub Stats ⚡:
 
 
-![ Github Stats Graph](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=harshOpensource&theme=radical&hide_border=true)
+![GitHub Stats](Untitled%20design.png)
 
 
 <br>
 
 
-![](https://github-readme-stats.vercel.app/api?username=harshOpensource&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](Harsh%20Keshwani.png)<br/>
 
 ![](https://github-readme-streak-stats.herokuapp.com/?user=harshOpensource&theme=dark&hide_border=false)<br/>
 
