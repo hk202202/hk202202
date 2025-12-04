@@ -9,7 +9,7 @@
 
 
 ## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/harsh202202) 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/harsh202203) 
 [![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:harsh202202@gmail.com)
 [![Website Badge](https://img.shields.io/badge/-Website-c14438?style=flat&logo=Google-Chrome&logoColor=white&link=https://harshbardhan.vercel.app)](https://portfolio2-murex-chi.vercel.app)
 [![Github](https://img.shields.io/github/followers/harshOpensource?label=Follow&style=social)](https://github.com/hk202202)
